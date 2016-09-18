@@ -1,7 +1,4 @@
-README for ush parser. 
-
-Vincent W. Freeh
-=====================
+#Introduction
 
 This a parser for a csh-like syntax.  It is to be used for the ush
 shell project.
